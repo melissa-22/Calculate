@@ -1,0 +1,11 @@
+C:\Users\Istver\source\repos\WindowsFormsApp2022\bin\Debug\WindowsFormsApp2022.exe.config
+C:\Users\Istver\source\repos\WindowsFormsApp2022\bin\Debug\WindowsFormsApp2022.exe
+C:\Users\Istver\source\repos\WindowsFormsApp2022\bin\Debug\WindowsFormsApp2022.pdb
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.csproj.AssemblyReference.cache
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.Form1.resources
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.Properties.Resources.resources
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.csproj.GenerateResource.cache
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.csproj.CoreCompileInputs.cache
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.exe
+C:\Users\Istver\source\repos\WindowsFormsApp2022\obj\Debug\WindowsFormsApp2022.pdb
